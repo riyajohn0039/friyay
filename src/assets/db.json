@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": 101,
+      "name": "Riya John",
+      "DOB": "09-03-2001",
+      "Salary": 25000,
+      "email": "riya@gmail.com"
+    }
+  ],
+  "user": [
+    {
+      "Name": "Riya John",
+      "email": "riya@gmail.com",
+      "Password": "123",
+      "id": 1
+    },
+    {
+      "Name": "Rohit V R",
+      "email": "rohit@gmail.com",
+      "Password": "rohit",
+      "id": 2
+    }
+  ]
+}
